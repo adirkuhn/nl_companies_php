@@ -11,7 +11,10 @@ Castor EDC
 https://castoredc.com/
 
 Booking
-booking.com
+http://booking.com
+
+Gfk
+http://www.gfk.com/
 
 
 Extra
