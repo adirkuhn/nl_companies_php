@@ -16,6 +16,9 @@ http://booking.com
 Gfk
 http://www.gfk.com/
 
+Mall-Connect
+https://www.mall-connect.com/
+
 
 Extra
 ======
